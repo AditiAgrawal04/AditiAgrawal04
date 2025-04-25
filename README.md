@@ -17,6 +17,24 @@ I'm passionate about using data to understand business patterns, solve problems,
 
 ## 💻 Projects So Far
 
+
+### 📍 Telangana Tourism Analysis Dashboard
+
+This project explores tourism trends in Telangana using open government data. By analyzing visitor patterns, seasonal influences, and district-wise growth or decline, the dashboard aims to provide actionable insights for strategic decisions in the tourism sector. The project highlights the projected revenue of ₹19B INR by 2025 and identifies key districts such as Hyderabad and Mancherial that are driving growth, while also flagging areas like Karimnagar and Nalgonda that are experiencing declines.
+
+**Skills & Tools Used**:  
+- **SQL**: Data cleaning and query execution  
+- **Excel**: Data transformation and preparation  
+- **Power BI**: Dashboard creation, data visualization, and storytelling  
+
+**Key Learnings**:  
+- Forecasting tourism trends using **CAGR**  
+- Designing **insightful dashboards** for non-technical audiences  
+- Presenting data with a **narrative-driven approach**  
+- Analyzing and visualizing large datasets to draw actionable conclusions  
+
+---
+
 ### 📊 [Sales Forecasting & Business Insights Dashboard (Power BI)]
 Built an interactive Power BI dashboard to analyze and forecast sales trends.
 - Used time series analysis for monthly forecasts
