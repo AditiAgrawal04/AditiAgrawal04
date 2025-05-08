@@ -18,6 +18,13 @@ I'm passionate about using data to understand business patterns, solve problems,
 ## 💻 Projects So Far
 
 
+### 🧑‍🎓 Gen Z Career Survey Analysis
+A full-cycle data analytics project exploring Gen Z’s career motivations and mission alignment. Applied survey design, stakeholder mapping, SQL-based data cleaning, Excel transformation, and Power BI dashboarding. Delivered executive-ready insights with analytical storytelling.
+
+🔗 [View Repository](https://github.com/AditiAgrawal04/genz-career-survey-project)
+
+---
+
 ### 📍 Telangana Tourism Analysis Dashboard
 
 This project explores tourism trends in Telangana using open government data. By analyzing visitor patterns, seasonal influences, and district-wise growth or decline, the dashboard aims to provide actionable insights for strategic decisions in the tourism sector. The project highlights the projected revenue of ₹19B INR by 2025 and identifies key districts such as Hyderabad and Mancherial that are driving growth, while also flagging areas like Karimnagar and Nalgonda that are experiencing declines.
